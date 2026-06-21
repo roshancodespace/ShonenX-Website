@@ -64,8 +64,8 @@ export function Header() {
                 <motion.div whileHover={{ y: -2, color: '#fff' }} className="flex items-center gap-2 transition-colors cursor-pointer"><Terminal size={14} /> Changelogs</motion.div>
               </Link>
               <motion.a whileHover={{ y: -2, color: '#fff' }} href="https://discord.gg/uJyXZYSmH4" target="_blank" rel="noreferrer" className="flex items-center gap-2 transition-colors cursor-pointer"><DiscordIcon size={14} /> Discord</motion.a>
-              <motion.a whileHover={{ y: -2, color: '#fff' }} href="https://github.com/roshancodeapace/ShonenX" target="_blank" rel="noreferrer" className="flex items-center gap-2 transition-colors cursor-pointer"><Github size={14} /> Source</motion.a>
-              <motion.a whileHover={{ y: -2, color: '#ff3333' }} href="https://github.com/roshancodeapace/ShonenX" target="_blank" rel="noreferrer" className="flex items-center gap-2 transition-colors cursor-pointer group"><Heart size={14} className="group-hover:animate-pulse" /> Sponsor</motion.a>
+              <motion.a whileHover={{ y: -2, color: '#fff' }} href="https://github.com/roshancodespace/ShonenX" target="_blank" rel="noreferrer" className="flex items-center gap-2 transition-colors cursor-pointer"><Github size={14} /> Source</motion.a>
+              <motion.a whileHover={{ y: -2, color: '#ff3333' }} href="https://github.com/roshancodespace/ShonenX" target="_blank" rel="noreferrer" className="flex items-center gap-2 transition-colors cursor-pointer group"><Heart size={14} className="group-hover:animate-pulse" /> Sponsor</motion.a>
             </div>
             
             <div className="h-4 w-px bg-white/10 hidden md:block"></div>
@@ -162,7 +162,7 @@ export function Header() {
                 <DiscordIcon size={16} className="text-shonen-red" /> Discord
               </a>
               <a 
-                href="https://github.com/roshancodeapace/ShonenX" 
+                href="https://github.com/roshancodespace/ShonenX" 
                 target="_blank" 
                 rel="noreferrer"
                 onClick={() => setIsMobileMenuOpen(false)}
@@ -171,7 +171,7 @@ export function Header() {
                 <Github size={16} className="text-shonen-red" /> Source Code
               </a>
               <a 
-                href="https://github.com/roshancodeapace/ShonenX" 
+                href="https://github.com/roshancodespace/ShonenX" 
                 target="_blank" 
                 rel="noreferrer"
                 onClick={() => setIsMobileMenuOpen(false)}

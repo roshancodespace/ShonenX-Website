@@ -83,7 +83,7 @@ export function Hero() {
               <Download size={18} />
               Get The App
             </a>
-            <a href="https://github.com/roshancodeapace/ShonenX" target="_blank" rel="noreferrer" className="border border-shonen-border bg-shonen-surface text-white px-8 py-4 hover:border-neutral-500 transition-colors flex items-center justify-center gap-3 w-full sm:w-auto">
+            <a href="https://github.com/roshancodespace/ShonenX" target="_blank" rel="noreferrer" className="border border-shonen-border bg-shonen-surface text-white px-8 py-4 hover:border-neutral-500 transition-colors flex items-center justify-center gap-3 w-full sm:w-auto">
               <GitBranch size={18} />
               View Source
             </a>

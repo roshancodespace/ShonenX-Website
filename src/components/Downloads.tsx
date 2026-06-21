@@ -142,7 +142,7 @@ export function Downloads() {
               Downloads are temporarily disabled. Please check the website announcements or our GitHub repository for more information.
             </p>
             <div className="flex flex-col sm:flex-row flex-wrap items-center justify-center gap-4">
-              <a href="https://github.com/roshancodeapace/ShonenX/releases" target="_blank" rel="noreferrer" className="flex items-center gap-2 bg-shonen-red text-black px-6 py-3 font-bold uppercase text-xs tracking-widest hover:bg-white transition-colors">
+              <a href="https://github.com/roshancodespace/ShonenX/releases" target="_blank" rel="noreferrer" className="flex items-center gap-2 bg-shonen-red text-black px-6 py-3 font-bold uppercase text-xs tracking-widest hover:bg-white transition-colors">
                 <Download size={16} /> View GitHub Releases
               </a>
             </div>

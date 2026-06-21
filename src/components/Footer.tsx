@@ -30,7 +30,7 @@ export function Footer() {
               <DiscordIcon size={18} />
               Discord
             </a>
-            <a href="https://github.com/roshancodeapace/ShonenX" className="w-full sm:w-auto bg-white text-black px-8 py-5 font-bold hover:bg-shonen-red hover:text-black transition-all flex items-center justify-center gap-3 font-mono text-sm uppercase whitespace-nowrap">
+            <a href="https://github.com/roshancodespace/ShonenX" className="w-full sm:w-auto bg-white text-black px-8 py-5 font-bold hover:bg-shonen-red hover:text-black transition-all flex items-center justify-center gap-3 font-mono text-sm uppercase whitespace-nowrap">
               <Github size={18} />
               GitHub Repo
             </a>
@@ -39,12 +39,12 @@ export function Footer() {
         
         <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-6 font-mono text-[10px] uppercase text-neutral-500 tracking-widest">
           <div className="flex items-center gap-2">
-            <span>Made with <Heart size={10} className="inline text-shonen-red mx-1 animate-pulse" /> by <a href="https://github.com/roshancodeapace" className="text-white hover:text-shonen-red transition-colors inline-flex items-center gap-1">@roshancodeapace <ExternalLink size={10} /></a></span>
+            <span>Made with <Heart size={10} className="inline text-shonen-red mx-1 animate-pulse" /> by <a href="https://github.com/roshancodespace" className="text-white hover:text-shonen-red transition-colors inline-flex items-center gap-1">@roshancodespace <ExternalLink size={10} /></a></span>
           </div>
           
           <div className="flex gap-4 md:gap-8 flex-wrap">
             <a href="/#disclaimer" className="hover:text-white transition-colors flex items-center gap-1"><ShieldAlert size={10} /> Legal / DMCA</a>
-            <a href="https://github.com/roshancodeapace/ShonenX/blob/main/LICENSE" className="hover:text-white transition-colors">License: Apache 2.0</a>
+            <a href="https://github.com/roshancodespace/ShonenX/blob/main/LICENSE" className="hover:text-white transition-colors">License: Apache 2.0</a>
             <Link href="/changelogs" className="hover:text-white transition-colors">Releases</Link>
           </div>
         </div>
